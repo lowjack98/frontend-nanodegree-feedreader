@@ -8,7 +8,7 @@ This project uses jasmine to test the correct functionality of the Feed Reader w
 ##### Installation
 Clone the git repo.
 
-`git clone `
+`git clone https://github.com/lowjack98/frontend-nanodegree-feedreader.git`
 
 Open `index.html`
 
